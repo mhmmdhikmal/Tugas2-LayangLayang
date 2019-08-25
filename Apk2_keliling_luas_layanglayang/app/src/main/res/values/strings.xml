@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Apk2_keliling_luas_layanglayang</string>
+    <string name="luaslayanglayang">Luas layang-layang</string>
+    <string name="kelilinglayanglayang">Keliling layang-layang</string>
+    <string name="sisi">SisiA</string>
+    <string name="sisi2">SisiB</string>
+    <string name="hitung">hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="diagonal1">diagonal1</string>
+    <string name="diagonal2">diagonal2</string>
+</resources>
